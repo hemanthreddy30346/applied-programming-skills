@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
