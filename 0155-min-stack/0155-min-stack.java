@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class MinStack {
 
     Stack<Integer> stack;
@@ -9,7 +11,6 @@ class MinStack {
     }
 
     public void push(int val) {
-
         stack.push(val);
 
         if (minStack.isEmpty()) {
