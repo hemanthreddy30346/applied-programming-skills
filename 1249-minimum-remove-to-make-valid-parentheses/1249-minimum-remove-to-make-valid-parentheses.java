@@ -1,40 +1,37 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
+        StringBuilder sb = new StringBuilder();
+        int balance = 0;
 
-        Stack<Integer> stack = new Stack<>();
-        boolean[] remove = new boolean[s.length()];
-
-        for (int i = 0; i < s.length(); i++) {
-
-            char c = s.charAt(i);
-
+        // Remove invalid ')'
+        for (char c : s.toCharArray()) {
             if (c == '(') {
-                stack.push(i);
+                balance++;
             } 
             else if (c == ')') {
-
-                if (!stack.isEmpty()) {
-                    stack.pop();
-                } else {
-                    remove[i] = true;
+                if (balance == 0) {
+                    continue;
                 }
+                balance--;
             }
+
+            sb.append(c);
         }
 
-        // Remove unmatched '('
-        while (!stack.isEmpty()) {
-            remove[stack.pop()] = true;
-        }
-
-        // Build result
+        // Remove extra '(' from the end
         StringBuilder result = new StringBuilder();
 
-        for (int i = 0; i < s.length(); i++) {
-            if (!remove[i]) {
-                result.append(s.charAt(i));
+        for (int i = sb.length() - 1; i >= 0; i--) {
+            char c = sb.charAt(i);
+
+            if (c == '(' && balance > 0) {
+                balance--;
+                continue;
             }
+
+            result.append(c);
         }
 
-        return result.toString();
+        return result.reverse().toString();
     }
 }
