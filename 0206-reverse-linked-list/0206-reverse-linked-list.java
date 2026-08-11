@@ -5,14 +5,9 @@ class Solution {
         ListNode curr = head;
 
         while (curr != null) {
-
-            // Save next node
             ListNode next = curr.next;
 
-            // Reverse the link
             curr.next = prev;
-
-            // Move pointers forward
             prev = curr;
             curr = next;
         }
