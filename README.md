@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
