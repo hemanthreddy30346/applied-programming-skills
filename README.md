@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
