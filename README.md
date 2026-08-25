@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
