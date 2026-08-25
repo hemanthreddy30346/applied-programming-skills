@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
