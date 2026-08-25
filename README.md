@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
