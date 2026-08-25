@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0796-rotate-string) |
@@ -143,15 +145,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
