@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1408-string-matching-in-an-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
