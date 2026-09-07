@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0621-task-scheduler) |
+| [1603-design-parking-system](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -255,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
