@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1732-find-the-highest-altitude) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
@@ -140,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1920-build-array-from-permutation) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hemanthreddy30346/applied-programming-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
