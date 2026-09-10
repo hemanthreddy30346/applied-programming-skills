@@ -1,37 +1,32 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
         StringBuilder sb = new StringBuilder();
-        int balance = 0;
+        int open = 0;
 
-        // Remove invalid ')'
         for (char c : s.toCharArray()) {
             if (c == '(') {
-                balance++;
-            } 
-            else if (c == ')') {
-                if (balance == 0) {
-                    continue;
+                open++;
+                sb.append(c);
+            } else if (c == ')') {
+                if (open > 0) {
+                    open--;
+                    sb.append(c);
                 }
-                balance--;
+            } else {
+                sb.append(c);
             }
-
-            sb.append(c);
         }
 
-        // Remove extra '(' from the end
-        StringBuilder result = new StringBuilder();
-
+        StringBuilder ans = new StringBuilder();
         for (int i = sb.length() - 1; i >= 0; i--) {
             char c = sb.charAt(i);
-
-            if (c == '(' && balance > 0) {
-                balance--;
-                continue;
+            if (c == '(' && open > 0) {
+                open--;
+            } else {
+                ans.append(c);
             }
-
-            result.append(c);
         }
 
-        return result.reverse().toString();
+        return ans.reverse().toString();
     }
 }
