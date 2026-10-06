@@ -16,7 +16,7 @@ class Solution {
         // Go left
         inorder(root.left, k);
 
-        // Visit root
+        // Visit current node
         count++;
 
         if (count == k) {
